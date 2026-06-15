@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himanshu3494
+- 👋 Hi, I’m Himanshu Singh
 - 👀 I’m interested in Data analyst role.
 - 🌱 I’m currently learning advance sql and python
 - 💞️ I’m looking for jobs
